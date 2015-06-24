@@ -6,7 +6,7 @@ import static org.firmata4j.Pin.Mode.OUTPUT
 /**
  * Created by justin on 6/24/15.
  */
-class cjugFirmata4jDemo {
+class CjugFirmata4jDemo {
 
     static IODevice device = new FirmataDevice("/dev/tty.usbmodem1451");
 
