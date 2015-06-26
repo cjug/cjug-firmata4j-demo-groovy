@@ -1,3 +1,4 @@
+package cjug.firmata4j.demo
 import org.firmata4j.IODevice
 import org.firmata4j.firmata.FirmataDevice
 
