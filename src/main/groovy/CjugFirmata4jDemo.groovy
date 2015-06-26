@@ -8,7 +8,7 @@ import static org.firmata4j.Pin.Mode.OUTPUT
  */
 class CjugFirmata4jDemo {
 
-    static IODevice device = new FirmataDevice("/dev/tty.usbmodem1451");
+    static IODevice device = new FirmataDevice("/dev/cu.usbmodem1411");
 
     def static main(String[] args) throws IOException, InterruptedException {
         try {
